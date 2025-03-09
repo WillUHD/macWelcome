@@ -20,7 +20,6 @@ Here are a list of all macOS Welcome guides. These guides are shown as a notific
     | Welcome to Mac Mini           | https://help.apple.com/macos/big-sur/mac-mini/         |
     | Welcome to iMac               | https://help.apple.com/macos/big-sur/imac/             |
     | Welcome to iMac Pro           | https://help.apple.com/macos/big-sur/imac-pro/         |
-
 <details>
 
 <details>
@@ -35,7 +34,6 @@ Here are a list of all macOS Welcome guides. These guides are shown as a notific
     | Welcome to Mac Mini           | https://help.apple.com/macos/catalina/mac-mini/         |
     | Welcome to iMac               | https://help.apple.com/macos/catalina/imac/             |
     | Welcome to iMac Pro           | https://help.apple.com/macos/catalina/imac-pro/         |
-
 <details>
 
 <details>
@@ -44,7 +42,6 @@ Here are a list of all macOS Welcome guides. These guides are shown as a notific
     |-------------------------------|---------------------------------------------------------|
     | Welcome to MacBook Air        | https://help.apple.com/macos/mojave/macbook-air/      |
     | Welcome to Mac Mini           | https://help.apple.com/macos/mojave/mac-mini/         |
-
 <details>
 
 ## Changelog 
