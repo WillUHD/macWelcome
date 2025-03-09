@@ -9,7 +9,7 @@ Here are a list of all macOS Welcome guides. These guides are shown as a notific
 **NOTE**: Links are provided in the browser's default language. If you would like to preview the content in a specific language, add your language (eg. ```?lang=en```for English) to the end of the URL. Cheers! 🥂
 
 <details>
-  <summary>macOS Big Sur<summary>
+  <summary>macOS Big Sur</summary>
     
     | Type                          | Link                                                    |
     |-------------------------------|---------------------------------------------------------|
@@ -25,7 +25,7 @@ Here are a list of all macOS Welcome guides. These guides are shown as a notific
 </details>
 
 <details>
-  <summary>macOS Catalina<summary>
+  <summary>macOS Catalina</summary>
     
     | Type                          | Link                                                    |
     |-------------------------------|---------------------------------------------------------|
@@ -41,7 +41,7 @@ Here are a list of all macOS Welcome guides. These guides are shown as a notific
 </details>
 
 <details>
-  <summary>macOS Mojave<summary>
+  <summary>macOS Mojave</summary>
     
     | Type                          | Link                                                  |
     |-------------------------------|-------------------------------------------------------|
