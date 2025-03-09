@@ -11,42 +11,42 @@ Here are a list of all macOS Welcome guides. These guides are shown as a notific
 <details>
   <summary>macOS Big Sur</summary>
     
-    | Type                          | Link                                                    |
-    |-------------------------------|---------------------------------------------------------|
-    | What's New                    | https://help.apple.com/macos/big-sur/whats-new/        |
-    | Mac Basics                    | https://help.apple.com/macos/big-sur/mac-basics/       | 
-    | Welcome to MacBook Air        | https://help.apple.com/macos/big-sur/macbook-air/      |
-    | Welcome to MacBook Pro        | https://help.apple.com/macos/big-sur/macbook-pro/      |
-    | Welcome to Mac Pro            | https://help.apple.com/macos/big-sur/mac-pro/          |
-    | Welcome to Mac Mini           | https://help.apple.com/macos/big-sur/mac-mini/         |
-    | Welcome to iMac               | https://help.apple.com/macos/big-sur/imac/             |
-    | Welcome to iMac Pro           | https://help.apple.com/macos/big-sur/imac-pro/         |
+  | Type                          | Link                                                    |
+  |-------------------------------|---------------------------------------------------------|
+  | What's New                    | https://help.apple.com/macos/big-sur/whats-new/        |
+  | Mac Basics                    | https://help.apple.com/macos/big-sur/mac-basics/       | 
+  | Welcome to MacBook Air        | https://help.apple.com/macos/big-sur/macbook-air/      |
+  | Welcome to MacBook Pro        | https://help.apple.com/macos/big-sur/macbook-pro/      |
+  | Welcome to Mac Pro            | https://help.apple.com/macos/big-sur/mac-pro/          |
+  | Welcome to Mac Mini           | https://help.apple.com/macos/big-sur/mac-mini/         |
+  | Welcome to iMac               | https://help.apple.com/macos/big-sur/imac/             |
+  | Welcome to iMac Pro           | https://help.apple.com/macos/big-sur/imac-pro/         |
     
 </details>
 
 <details>
   <summary>macOS Catalina</summary>
     
-    | Type                          | Link                                                    |
-    |-------------------------------|---------------------------------------------------------|
-    | What's New                    | https://help.apple.com/macos/catalina/whats-new/        |
-    | Mac Basics                    | https://help.apple.com/macos/catalina/mac-basics/       | 
-    | Welcome to MacBook Air        | https://help.apple.com/macos/catalina/macbook-air/      |
-    | Welcome to MacBook Pro        | https://help.apple.com/macos/catalina/macbook-pro/      |
-    | Welcome to Mac Pro            | https://help.apple.com/macos/catalina/mac-pro/          |
-    | Welcome to Mac Mini           | https://help.apple.com/macos/catalina/mac-mini/         |
-    | Welcome to iMac               | https://help.apple.com/macos/catalina/imac/             |
-    | Welcome to iMac Pro           | https://help.apple.com/macos/catalina/imac-pro/         |
+  | Type                          | Link                                                    |
+  |-------------------------------|---------------------------------------------------------|
+  | What's New                    | https://help.apple.com/macos/catalina/whats-new/        |
+  | Mac Basics                    | https://help.apple.com/macos/catalina/mac-basics/       | 
+  | Welcome to MacBook Air        | https://help.apple.com/macos/catalina/macbook-air/      |
+  | Welcome to MacBook Pro        | https://help.apple.com/macos/catalina/macbook-pro/      |
+  | Welcome to Mac Pro            | https://help.apple.com/macos/catalina/mac-pro/          |
+  | Welcome to Mac Mini           | https://help.apple.com/macos/catalina/mac-mini/         |
+  | Welcome to iMac               | https://help.apple.com/macos/catalina/imac/             |
+  | Welcome to iMac Pro           | https://help.apple.com/macos/catalina/imac-pro/         |
     
 </details>
 
 <details>
   <summary>macOS Mojave</summary>
     
-    | Type                          | Link                                                  |
-    |-------------------------------|-------------------------------------------------------|
-    | Welcome to MacBook Air        | https://help.apple.com/macos/mojave/macbook-air/      |
-    | Welcome to Mac Mini           | https://help.apple.com/macos/mojave/mac-mini/         |
+  | Type                          | Link                                                  |
+  |-------------------------------|-------------------------------------------------------|
+  | Welcome to MacBook Air        | https://help.apple.com/macos/mojave/macbook-air/      |
+  | Welcome to Mac Mini           | https://help.apple.com/macos/mojave/mac-mini/         |
     
 </details>
 
